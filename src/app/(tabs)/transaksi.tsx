@@ -14,6 +14,12 @@ const DUMMY_TRANSAKSI = [
     waktu: "11:02 WIB",
     total: "Rp 214.500",
   },
+  {
+    id: "TRX-003",
+    item: "5 Item Belanja",
+    waktu: "09.44 WIB",
+    total: "Rp 501.500",
+  },
 ];
 export default function TransaksiScreen() {
   return (
